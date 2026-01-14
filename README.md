@@ -86,4 +86,4 @@ This lab demonstrated how virtualization can be used to deploy a Linux operating
 ---
 
 ## 📎 Documentation
-- 📄 Full UMGC Lab Report (PDF): `Creating a Virtual Machine and Installing Ubuntu Using Hyper-V.pdf`
+📄 [Full UMGC Lab Report (PDF)](https://github.com/Pelumi-Johnson/-Creating-a-Virtual-Machine-and-Installing-Ubuntu-Using-Hyper-V/blob/main/Creating%20a%20Virtual%20Machine%20and%20Installing%20Ubuntu%20Using%20Hyper-V%20%20.pdf)
