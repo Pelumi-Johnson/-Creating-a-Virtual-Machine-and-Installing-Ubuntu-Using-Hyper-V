@@ -3,7 +3,7 @@
 ![Badge](https://img.shields.io/badge/Cloud%20Security-Virtualization%20%7C%20Linux%20Deployment-red?style=for-the-badge)
 
 📄 **Full Lab Report:**  
-👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Building-Configuring-a-Linux-Environment/blob/main/Project%201%20(3).docx.pdf)
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-Creating-a-Virtual-Machine-and-Installing-Ubuntu-Using-Hyper-V/blob/main/Creating%20a%20Virtual%20Machine%20and%20Installing%20Ubuntu%20Using%20Hyper-V%20%20.pdf)
 
 ## 📌 Project Overview
 UMGC lab focused on creating a virtual machine using Hyper-V Manager and installing Ubuntu Linux. The project emphasizes virtualization fundamentals, internal networking configuration, and preparing a Linux environment for cloud security architecture labs.
